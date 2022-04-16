@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Fnematov\TrendyolParser;
+namespace rdtvaacar\TrendyolParser;
 
 
-use Fnematov\TrendyolParser\Response\ParsedProduct;
-use Fnematov\TrendyolParser\Response\ParserResponse;
-use Fnematov\TrendyolParser\Response\ProductVariant;
+use rdtvaacar\TrendyolParser\Response\ParsedProduct;
+use rdtvaacar\TrendyolParser\Response\ParserResponse;
+use rdtvaacar\TrendyolParser\Response\ProductVariant;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 

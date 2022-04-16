@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Fnematov\TrendyolParser\Response;
+namespace rdtvaacar\TrendyolParser\Response;
 
 
-use Fnematov\TrendyolParser\Fillable;
+use rdtvaacar\TrendyolParser\Fillable;
 
 class ParsedProduct
 {

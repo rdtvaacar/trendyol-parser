@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Fnematov\TrendyolParser;
+namespace rdtvaacar\TrendyolParser;
 
 
 trait Fillable

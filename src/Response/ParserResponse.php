@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Fnematov\TrendyolParser\Response;
+namespace rdtvaacar\TrendyolParser\Response;
 
 
 class ParserResponse
