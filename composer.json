@@ -1,0 +1,25 @@
+{
+    "name": "rdtvacacar/trendyol-parser",
+    "description": "Service for parsing products from trendyol.com",
+    "keywords": [
+        "rdtvaacar",
+        "trendyol-parser"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "aydın acar",
+            "email": "acarbey15@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "rdtvaacar\\TrendyolParser\\": "src"
+        }
+    }
+}
